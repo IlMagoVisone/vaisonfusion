@@ -1,10 +1,12 @@
 
-p. riga modificata da prima 
+
+
+s. per le righe tradotte sulla seconda
 
 
 
 
-TIT. (DA SÉ)(LA VORÌA LICENZIARE; MA NO SO COME FARE.)
+TIT. (DA SÉ)(LA VORÌA LICENZIARE; MA NO SO COME FA    s. (DA SÈ)(LA DOVREI LICENZIARE; MA NON SO COME FARE)RE.)
 
 PAS. (A LUCIETTA)(VÀRDELO UN POp.(a lucietta)(guardatelo un poco)CO.)
 
@@ -14,9 +16,9 @@ PAS. (DA SÉ)(GHE PESTERÀVE LA TESTA SU QUEL BALON).
 
 TIT. (DA SÉ)NO LA ME VARDA GNANCA. NO LA ME GH’HA GNANCA IN MÈNTE.)
 
-PAS. SIORÌA,p. signora, titta-nane TITTA-NANE.
 
-TIT. SIORÌA.
+PAS. SIORÌA, TITTA-NANE.S. SIGNORAÌA.
+
 
 PAS.(A LUCIETTA)(SALÙDILO).
 
